@@ -1,0 +1,22 @@
+{
+  "name": "pixiekat/pixies_helper",
+  "type": "library",
+  "autoload": {
+      "psr-4": {
+          "Pixiekat\\": "src/"
+      }
+  },
+  "authors": [
+      {
+          "name": "Katie Elizabeth",
+          "email": "coolerthanyrmom@supportcrime.net"
+      }
+  ],
+  "config": {
+      "sort-packages": true
+  },
+  "require": {
+      "php": "^8.3"
+  },
+  "require-dev": {}
+}
